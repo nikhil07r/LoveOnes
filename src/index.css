@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+--root{
+    --text-color:#847B1A;
+    --bg-color:#fefae0;
+}
+
+::selection{
+  color: white;
+  background-color: rgb(155, 118, 53);
+}
+
+.active-link{
+  border-bottom: 2px solid rgb(176, 195, 32);
+}
+
+
+@font-face {
+  font-family: 'RollingBeat';
+  src: url('/fonts/Rolling Beat_Personal Use.ttf') format('truetype');
+  font-weight: normal;
+  font-style:normal;
+}
+@font-face {
+  font-family: 'Valent';
+  src: url('/fonts/Valentine Beautiful.otf') format('opentype');
+  font-weight: normal;
+  font-style:normal;
+}
