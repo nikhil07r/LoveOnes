@@ -72,7 +72,7 @@ function Navbar() {
         {/* Logo Section */}
         <div className="logo flex items-center">
           <img
-            src="/madam/D logo.png"
+            src="/DeepaMadam/D logo.png"
             alt="Logo"
             className="h-16 w-auto object-contain"
             loading="lazy"
