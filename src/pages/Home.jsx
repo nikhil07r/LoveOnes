@@ -392,7 +392,7 @@ function Home() {
                     Mari Pyari Chuiya
                   </h1>
                   <p className="good-para text-black font-mono mt-10">
-                    You is the most important part of my life. You has such a
+                    You are the most important part of my life. You has such a
                     sweet and talking nature that makes me feel so comfortable
                     with you. Your smile is just too good, it honestly makes my
                     whole day 🙈. You love the rain, and just like the rain
