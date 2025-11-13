@@ -397,7 +397,7 @@ function Home() {
                     with you. Your smile is just too good, it honestly makes my
                     whole day 🙈. You love the rain, and just like the rain
                     refreshes everything, you brings peace and happiness into my
-                    life. I feel really lucky to have you in my life.❤
+                    life. I feel really lucky to have you in my life.❤️
                   </p>
                   <button className="about-us text-black font-semibold mt-10 px-10 py-2 rounded-full cursor-pointer border border-[#958c23]">
                     <NavLink
